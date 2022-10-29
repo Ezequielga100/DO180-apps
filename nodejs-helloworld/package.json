@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Hello World!",
   "main": "app.js",
-  "strat": "node app.js",
+  "scripts":{
+    "strat": "node app.js",
+  },
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
